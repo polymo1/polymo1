@@ -1,8 +1,7 @@
 ## Hi! I'm Wes!
 
-- 🌱 I’m currently learning **[C Lang](https://github.com/wesleybryie/LearnC)**
-- 👯 I’m looking to collaborate on **any project that could my help.**
-- 🤔 I’m looking for help with **any problems with code.**
-- 💬 Ask me about **the Early College program I am enrolled in**
-- 📫 How to reach me: **email me at [wes@wesbryie.com](mailto:wes@wesbryie.com) or [message me on Keybase](https://keybase.io/wesleybryie)**
-- 😄 Pronouns: **he/him**
+I am an Early College Student and future Systems Administrator.
+
+If you wish to contact me, I suggest emailing me at wes(at)wesbryie.com, or sending my a message on discord at @kryptochaos.
+
+You can also find my website [here](https://wesbryie.com).
