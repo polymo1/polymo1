@@ -11,4 +11,4 @@ Of course, if you find me elsewhere, feel free to reach out :).
 
 You can also find my website [here](https://wesbryie.com).
 
-[1]: I accept GPG Encrypted and Signed emails. If you feel there is something I need to know that needs to stay private, or you prefer to use GPG, feel free to use my key with ID
+[1]: I accept GPG Encrypted and Signed emails. If you feel there is something I need to know that needs to stay private, or you prefer to use GPG, feel free to use my key with ID [119F EB00 D995 1E93](https://wesbryie.com/pub.key)
